@@ -1,0 +1,5 @@
+name: Cinematics
+version: '1.0'
+main: eu.cafestube.cinematics.plugin.CinematicPlugin
+description: Cinematics Demo Plugin
+api-version: '1.19'
